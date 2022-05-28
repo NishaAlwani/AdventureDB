@@ -1,0 +1,10 @@
+27-05-2022 12:48:24 PM	This log contains information about the import schema operation into project 'AdventureDB' on computer 'CBLLAP0944' by user 'Celebal'.
+27-05-2022 12:48:24 PM	Deserializing model
+27-05-2022 12:48:25 PM	Resolving model
+27-05-2022 12:48:26 PM	Visiting imported model for types
+27-05-2022 12:48:26 PM	Scanning project for duplicate elements
+27-05-2022 12:48:27 PM	Finished duplicate element processing
+27-05-2022 12:48:31 PM	Processing extra files
+27-05-2022 12:48:31 PM	Finished importing Data-tier Application file.
+27-05-2022 12:48:31 PM	A summary of the import was saved to the following location: C:\Users\Celebal\source\repos\AdventureDB\Import Schema Logs\AdventureDB_20220527071824.log
+27-05-2022 12:48:31 PM	Click Finish to continue...
